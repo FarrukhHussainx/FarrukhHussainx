@@ -1,7 +1,7 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=FarrukhHussainx.FarrukhHussainx" />
 
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Farrukh+Hussain;+I'm+Software+Engineer+👨‍💻;+I'm+Web+Developer;+I'm+Mobile+App+Developer;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Farrukh+Hussain;+A+Software+Engineer+👨‍💻;+Web+Developer;+Mobile+App+Developer;" />
 </h1>
 
 <h3 align="center">An aesthetic software engineer proficient in full stack web development with the MERN stack and Next.js, 
