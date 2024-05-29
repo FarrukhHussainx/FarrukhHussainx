@@ -39,7 +39,7 @@ continuously striving to enhance and broaden technical skills</h3>
 <br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=react,nextjs,mui,html,css,vscode,github,figma,tailwind,git,prisma" />
-    <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,typescript,express,firebase,mongodb,c++,java,bootstrap,mysql,flask" /><br>
+    <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,typescript,express,firebase,mongodb,cpp,java,bootstrap,mysql,flask" /><br>
 </div>
 
 <br/>
@@ -48,7 +48,7 @@ continuously striving to enhance and broaden technical skills</h3>
 <div align="center">
   <h2>🐍 My Contributions 🐍</h2>
   <br>
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg" />
+  <img alt="snake eating my contributions" src="https://raw.github.com/FarrukhHussainx/FarrukhHussainx/output/github-contribution-grid-snake.svg" />
   
   <br/><br/><br/>
 </div>
