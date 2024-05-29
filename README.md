@@ -15,20 +15,20 @@ continuously striving to enhance and broaden technical skills</h3>
  
  🌱 I’m currently learning **Docker, Supabase, AWS**
 
-💬 Ask me about **Next Js, Node.js, React, React Native... or anything [here](https://farrukhhussain.vercel.app/)**
+💬 Ask me about **Next Js, Node.js, React, React Native... or anything [here](https://wa.me/3085165899)**
 
 ⚡ Fun fact **Coffee is a Coder's Best Friend**
 
  </div>
  
 <div align="center"> 
-  <a href="mailto:pedro.sales.muniz@gmail.com">
+  <a href="mailto:farrukhhussainofficial@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
   </a>
-  <a href="https://linkedin.com/in/pedro-sales-muniz" target="_blank">
+  <a href="https://www.linkedin.com/in/farrukh-hussain-1b8164259/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
   </a>
-  <a href="https://salesp07.github.io" target="_blank">
+  <a href="https://farrukhhussain.vercel.app/" target="_blank">
      <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
   </a>
 </div>
