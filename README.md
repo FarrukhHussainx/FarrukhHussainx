@@ -13,7 +13,7 @@ continuously striving to enhance and broaden technical skills</h3>
  
  🔭 I’m currently working on **a marketplace**
  
- 🌱 I’m currently learning **Docker, Supabase, AWS**
+ 🌱 I’m currently learning **Docker, Python, AWS**
 
 💬 Ask me about **Next Js, Node.js, React, React Native... or anything [here](https://wa.me/3085165899)**
 
