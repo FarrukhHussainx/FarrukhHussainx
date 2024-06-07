@@ -3,6 +3,8 @@
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Farrukh+Hussain;+A+Software+Engineer+👨‍💻;+Web+Developer;+Mobile+App+Developer;" />
 </h1>
+<p align="center"><img align="center" src="https://media0.giphy.com/media/CcwLAV11cALh3OuEJ5/giphy.gif?cid=ecf05e47smrczov1mdgwlsn80gf8up6dgma2m3vhzrc2yqzv&rid=giphy.gif&ct=g" alt="mujtabacodes" /></p>
+<br>
 
 <h3 align="center">An aesthetic software engineer proficient in full stack web development with the MERN stack and Next.js, 
 continuously striving to enhance and broaden technical skills</h3>
