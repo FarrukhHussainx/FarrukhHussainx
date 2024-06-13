@@ -44,7 +44,7 @@ continuously striving to enhance and broaden technical skills</h3>
 <br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=react,nextjs,mui,html,css,vscode,github,figma,tailwind,git,prisma" />
-    <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,typescript,express,firebase,mongodb,cpp,java,bootstrap,mysql,flask" /><br>
+    <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,typescript,express,firebase,mongodb,cpp,java,bootstrap,mysql,postgresql" /><br>
 </div>
 
 <br/>
