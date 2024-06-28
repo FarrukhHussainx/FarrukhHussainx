@@ -34,6 +34,8 @@ continuously striving to enhance and broaden technical skills</h3>
      <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
   </a>
 </div>
+
+
 <p align="center"><img align="center" src="https://media0.giphy.com/media/CcwLAV11cALh3OuEJ5/giphy.gif?cid=ecf05e47smrczov1mdgwlsn80gf8up6dgma2m3vhzrc2yqzv&rid=giphy.gif&ct=g" alt="farrukhussainx" /></p>
 
  <hr/>
